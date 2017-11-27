@@ -367,5 +367,21 @@
           "caseSensitive":false,
           "blackList":false,
           "multiLine":false
+     }, {
+          "enabled": true,
+          "name": "Wikia",
+          "pattern": "*://wikia.com/*",
+          "isRegEx": false,
+          "caseSensitive": false,
+          "blackList": false,
+          "multiLine": false
+     }, {
+          "enabled": true,
+          "name": "Wikia",
+          "pattern": "*://*.wikia.com/*",
+          "isRegEx": false,
+          "caseSensitive": false,
+          "blackList": false,
+          "multiLine": false
           }]
 }
